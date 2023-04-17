@@ -1,0 +1,84 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A4D4510929ED766700CE4D92 /* MinMax.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MinMax.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		A4D4510A29ED7AC300CE4D92 /* JadenCaseString.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JadenCaseString.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A4D4510129ED764600CE4D92 = {
+			isa = PBXGroup;
+			children = (
+				A4D4510829ED764F00CE4D92 /* Programmers */,
+			);
+			sourceTree = "<group>";
+		};
+		A4D4510829ED764F00CE4D92 /* Programmers */ = {
+			isa = PBXGroup;
+			children = (
+				A4D4510929ED766700CE4D92 /* MinMax.playground */,
+				A4D4510A29ED7AC300CE4D92 /* JadenCaseString.playground */,
+			);
+			path = Programmers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A4D4510229ED764600CE4D92 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1410;
+			};
+			buildConfigurationList = A4D4510529ED764600CE4D92 /* Build configuration list for PBXProject "SwiftCodingTest" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A4D4510129ED764600CE4D92;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A4D4510629ED764600CE4D92 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A4D4510729ED764600CE4D92 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A4D4510529ED764600CE4D92 /* Build configuration list for PBXProject "SwiftCodingTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A4D4510629ED764600CE4D92 /* Debug */,
+				A4D4510729ED764600CE4D92 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A4D4510229ED764600CE4D92 /* Project object */;
+}
